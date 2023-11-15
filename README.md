@@ -12,3 +12,5 @@ Example Request Body
     "deliveryFlag": "E", - Pass this config only
     "serviceType": "N" - Pass this config only
 }
+
+Won't receive email otp if email has not been whitelisted in the API. Use 123123 as OTP for validating OTP.
